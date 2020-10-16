@@ -48,7 +48,7 @@ LightmapSettings:
   m_GISettings:
     serializedVersion: 2
     m_BounceScale: 1
-    m_IndirectOutputScale: 1.95
+    m_IndirectOutputScale: 1.36
     m_AlbedoBoost: 1
     m_EnvironmentLightingMode: 0
     m_EnableBakedLightmaps: 1
@@ -97,7 +97,7 @@ LightmapSettings:
     m_ExportTrainingData: 0
     m_TrainingDataDestination: TrainingData
     m_LightProbeSampleCountMultiplier: 4
-  m_LightingDataAsset: {fileID: 112000000, guid: b51e9f8d41e9c4ed289f53a2862de872,
+  m_LightingDataAsset: {fileID: 112000000, guid: cf050352ee7764a9f9f6e5f46376144d,
     type: 2}
   m_UseShadowmask: 1
 --- !u!196 &4
@@ -880,7 +880,7 @@ ReflectionProbe:
   m_UpdateFrequency: 0
   m_BoxSize: {x: 10, y: 10, z: 10}
   m_BoxOffset: {x: 0, y: 0, z: 0}
-  m_NearClip: 0.3
+  m_NearClip: 3.69
   m_FarClip: 1000
   m_ShadowDistance: 100
   m_ClearFlags: 1
